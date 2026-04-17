@@ -1,0 +1,12 @@
+body{margin:0;font-family:sans-serif;background:black;color:white;}
+.nav{position:fixed;width:100%;display:flex;justify-content:space-between;padding:20px;background:rgba(0,0,0,0.6);}
+.hero{height:100vh;position:relative;}
+.bg-video{width:100%;height:100%;object-fit:cover;}
+.overlay{position:absolute;width:100%;height:100%;background:rgba(0,0,0,0.5);}
+.hero-content{position:absolute;top:40%;left:10%;}
+.section{padding:100px;}
+.dark{background:#111;}
+.cards{display:flex;gap:20px;margin-top:20px;}
+.card{background:#222;padding:20px;border-radius:10px;}
+.cta{margin-top:20px;padding:10px 20px;background:white;color:black;border:none;}
+.center{text-align:center;}
